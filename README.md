@@ -1,7 +1,7 @@
 🔄 Live Google Sheets to Excel Hybrid Pipeline & Data Mart
 
 An enterprise-grade, 5-sheet hybrid data pipeline connecting live cloud web form ingestion (Google Sheets) to local analytical workstations (Microsoft Excel) via Power Query, complete with ETL normalization, data marts, and automated error auditing.
-
+ 
 🏗️ End-to-End Pipeline Architecture
 
 The workbook is structured into 5 interlinked functional layers:
